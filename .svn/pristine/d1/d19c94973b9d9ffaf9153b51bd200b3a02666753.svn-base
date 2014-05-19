@@ -1,0 +1,34 @@
+.bp-hidden-lightbox-content-inner {
+	padding: 3em;
+	border: 1em solid #ccc;
+	-webkit-box-shadow: 10px 10px 46px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 10px 10px 46px 0px rgba(0,0,0,0.75);
+	box-shadow: 10px 10px 46px 0px rgba(0,0,0,0.75);
+	text-align: center;
+}
+.lb_email_address {
+	font-style: italic;
+	font-weight: bold;
+}
+.bp-hidden-lightbox-content-inner h1 {
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+.bp-hidden-lightbox-content-inner h2 {
+	margin-top: 0;
+	padding-top: 0;
+}
+.bp-hidden-lightbox-content-inner p a {
+	border: 2px solid #eee;
+	padding: 1em 1.2em;
+	text-transform: uppercase;
+	font-size: 1.2em;
+	display: inline-block;
+	font-weight: bold;
+}
+.bp-hidden-lightbox-content-inner p a:first-of-type {
+	margin-right: 1em;
+}
+.bp-hidden-lightbox-content-inner p a:hover {
+	border: 2px solid #ccc;
+}
